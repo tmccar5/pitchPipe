@@ -2,12 +2,7 @@ $(document).ready(function(){
 	
 	var words = "please work"
 
-	// $( "#target" ).click(function() {
-	//   alert( "Handler for .click() called." );
-	// });
-
-
-	$("#btn").click(function() {
+	$(":button").click(function() {
 		alert(words);
 	});
 
