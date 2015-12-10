@@ -1,0 +1,21 @@
+body, div {
+  padding:500;
+  margin:500;
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+button {
+  color: grey;
+  width: 100px;
+
+}
+
+#pipe {
+	background-color: #999;
+	width: 310px;
+	height: 85px;
+	border: 3px grey solid;
+	margin: 10px auto;
+	padding: 5px;
+	border-radius: 10px;
+}
